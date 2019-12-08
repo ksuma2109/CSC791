@@ -53,3 +53,7 @@ python main.py --mode test --data_split dev --para_limit 2250 --batch_size 24 --
 ```
 python hotpot_evaluate_v1.py dev_distractor_pred_trial.json hotpot_dev_distractor_v1.json
 ```
+
+
+The google colab notebook can be directly found here: 
+[hotpot](https://colab.research.google.com/drive/1PmtSveZ0M-EzWNNTkcFh31s7B4NVh2Di).
